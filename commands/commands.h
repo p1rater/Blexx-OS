@@ -1,6 +1,8 @@
 #ifndef COMMANDS_H
 #define COMMANDS_H
 
+#include "../kernel_utils.h"
+
 typedef void (*command_func_t)(const char* args);
 
 typedef struct {
@@ -11,15 +13,5 @@ typedef struct {
 
 extern command_t command_table[];
 extern int command_count;
-
-/* Tum komutlarin imzasi */
-void command_help(const char* args);
-void command_ls(const char* args);
-void command_reboot(const char* args);
-void command_clear(const char* args);
-void command_color(const char* args);
-void command_uname(const char* args);
-void command_shutdown(const char* args);
-void command_cat(const char* args);
 
 #endif

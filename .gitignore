@@ -1,5 +1,6 @@
 *.o
-*.bin
-*.iso
+commands/*.o
+mykernel.bin
+blexxos.iso
 iso/boot/mykernel.bin
-archive/
+.DS_Store

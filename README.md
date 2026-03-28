@@ -51,3 +51,8 @@ To compile and generate the ISO on **Arch Linux**, the following packages must b
 
 ## 🚀 Note for ThinkPad SL510 Users
 If you are testing on a device with an **Intel T6670**, the kernel runs natively on the hardware. Expect significantly faster I/O response times and keyboard input compared to QEMU emulation.
+
+---
+
+## Why Blexx?
+Yes, Blex would have made more sense, but I preferred adding another 'x' to the end to make it Blexx; there's no particular reason.

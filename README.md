@@ -12,7 +12,7 @@ Blexx-OS is an ultra-lightweight kernel designed for "bare metal" x86 execution.
 
 ### 🟢 Minimum Requirements (To Run)
 *   **Processor (CPU):** Intel 80386 (i386) or any newer x86-compatible processor (e.g., Intel Core 2 Duo T6670).
-*   **Memory (RAM):** **1 MB**. (System can boot with less, but 1 MB is recommended for stability).
+*   **Memory (RAM):** **4 MB**. (System can boot with less, but 1 MB is recommended for stability).
 *   **Display:** Any VGA-compatible monitor (Supporting standard 80x25 Text Mode).
 *   **Keyboard:** PS/2 connection or USB keyboard with "Legacy PS/2 Support" enabled in BIOS.
 *   **Bootloader:** Multiboot 1.0 compliant (GRUB 2.0+ recommended).

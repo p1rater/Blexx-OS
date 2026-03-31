@@ -1,0 +1,1 @@
+BNU stands for Blex Not Unix, and it is an open-source project protected by the BOSL license!

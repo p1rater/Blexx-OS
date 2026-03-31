@@ -1,0 +1,89 @@
+BLEX OPEN SOURCE LICENSE (BOSL)
+                       Version 1, March 2026
+
+ Copyright (C) 2026 Blex
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The Blex Open Source License (BOSL) is designed to ensure that BNU 
+(Blex Not Unix) and all related software remain free and open for all 
+its users. BNU stands for "Blex Not Unix", and it is a community-driven 
+open-source project.
+
+  Most software licenses are designed to take away your freedom to share 
+and change it. By contrast, the BOSL is intended to guarantee your 
+freedom to share and change free software--to make sure the software is 
+free for all its users.
+
+  When we speak of free software, we are referring to freedom, not 
+price. Our licenses are designed to make sure that you have the freedom 
+to distribute copies of BNU, that you receive source code, that you can 
+change the software or use pieces of it in new free programs; and that 
+you know you can do these things.
+
+  To protect your rights, we need to make restrictions that forbid 
+anyone to deny you these rights or to ask you to surrender the rights. 
+These restrictions translate to certain responsibilities for you if you 
+distribute copies of the software, or if you modify it.
+
+                    BLEX OPEN SOURCE LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. This License applies to any program or other work which contains 
+a notice placed by the copyright holder saying it may be distributed 
+under the terms of this Blex Open Source License. The "Program", below, 
+refers to BNU or any such program or work.
+
+  1. You may copy and distribute verbatim copies of the Program's 
+source code as you receive it, provided that you conspicuously and 
+appropriately publish on each copy an appropriate copyright notice and 
+disclaimer of warranty.
+
+  2. You may modify your copy or copies of the Program or any portion 
+of it, thus forming a work based on the Program, provided that you 
+meet all of these conditions:
+
+    a) You must cause the modified files to carry prominent notices 
+    stating that you changed the files and the date of any change.
+
+    b) You must cause any work that you distribute or publish, that in 
+    whole or in part contains or is derived from the Program, to be 
+    licensed as a whole at no charge to all third parties under the 
+    terms of this BOSL License.
+
+    c) BNU must always remain "Not Unix". Any attempt to make BNU 
+    proprietary or closed-source is a violation of this license.
+
+  3. You may copy and distribute the Program in object code or 
+executable form under the terms of Sections 1 and 2 above provided 
+that you accompany it with the complete corresponding machine-readable 
+source code.
+
+                            NO WARRANTY
+
+  4. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO 
+WARRANTY FOR THE PROGRAM. THE COPYRIGHT HOLDERS PROVIDE THE PROGRAM 
+"AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. 
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS 
+WITH YOU.
+
+  5. IN NO EVENT WILL ANY COPYRIGHT HOLDER BE LIABLE TO YOU FOR 
+DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM.
+
+                     END OF TERMS AND CONDITIONS
+
+            How to Apply These Terms to Your New Programs
+
+  If you develop a new program for the BNU ecosystem, attach the 
+following notices to the start of each source file:
+
+    <one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the Blex Open Source License (BOSL) as 
+    published by Blex.
+
+    BNU stands for Blex Not Unix. This project is protected by BOSL.

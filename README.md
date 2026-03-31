@@ -1,4 +1,8 @@
 # BlexOS
+---
+
+This is a foundation. The unfinished spirit of GNU is here, in the simplicity of Blex. Anyone can fork it, anyone can build their own OS on this foundation. Blex Not Unix
+---
 
 # Blex-OS System Requirements & Specifications
 
@@ -61,4 +65,4 @@ Yes, Blex would have made more sense, but I preferred adding another 'x' to the 
 
 ## 📜 License
 
-This project is licensed under the **GNU General Public License v2.0**. See the [LICENSE](LICENSE) file for the full text.
+This project is licensed under the **BOSL Blex Open Source License**. See the [LICENSE](LICENSE) file for the full text.

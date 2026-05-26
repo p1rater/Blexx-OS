@@ -1,0 +1,5 @@
+#!/bin/sh
+# initramfs init stub for BlexOS
+# The real kernel takes over from Multiboot2 directly;
+# this file exists to satisfy initramfs conventions.
+exec /bin/sh
